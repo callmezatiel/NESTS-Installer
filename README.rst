@@ -1,7 +1,7 @@
-PyInstaller Overview
+NEST Installer Overview
 ====================
 
-PyInstaller bundles a Python application and all its dependencies into a single
+NESTS Installer bundles a Python application and all its dependencies into a single
 package. The user can run the packaged app without installing a Python
 interpreter or any modules.
 
